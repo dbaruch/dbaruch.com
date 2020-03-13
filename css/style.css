@@ -5,12 +5,12 @@ body {
   margin-top: 0px;
   font-family: 'Dosis', sans-serif;
   border: 5px solid black;
-  position: relative;
+  position: flex;
 }
 
 header {
-  position: fixed;
-  border: 10px solid black;
+  position: flex;
+  border: 5px solid black;
   top: 0;
   left: 0;
   right: 0;
